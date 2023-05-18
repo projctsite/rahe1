@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ededce42.css",
-    "main.js": "/static/js/main.03dc4dfe.js",
-    "static/js/787.7f7b8a1e.chunk.js": "/static/js/787.7f7b8a1e.chunk.js",
-    "static/media/Bible.jpg": "/static/media/Bible.838836a8b5dde5e495f9.jpg",
-    "static/media/rahenajat.webp": "/static/media/rahenajat.d00f746abf5a32fecb0a.webp",
-    "index.html": "/index.html",
-    "main.ededce42.css.map": "/static/css/main.ededce42.css.map",
-    "main.03dc4dfe.js.map": "/static/js/main.03dc4dfe.js.map",
-    "787.7f7b8a1e.chunk.js.map": "/static/js/787.7f7b8a1e.chunk.js.map"
+    "main.css": "/rahe1/static/css/main.ededce42.css",
+    "main.js": "/rahe1/static/js/main.ab469d07.js",
+    "static/js/787.7f7b8a1e.chunk.js": "/rahe1/static/js/787.7f7b8a1e.chunk.js",
+    "static/media/Bible.jpg": "/rahe1/static/media/Bible.838836a8b5dde5e495f9.jpg",
+    "static/media/rahenajat.webp": "/rahe1/static/media/rahenajat.d00f746abf5a32fecb0a.webp",
+    "index.html": "/rahe1/index.html",
+    "main.ededce42.css.map": "/rahe1/static/css/main.ededce42.css.map",
+    "main.ab469d07.js.map": "/rahe1/static/js/main.ab469d07.js.map",
+    "787.7f7b8a1e.chunk.js.map": "/rahe1/static/js/787.7f7b8a1e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ededce42.css",
-    "static/js/main.03dc4dfe.js"
+    "static/js/main.ab469d07.js"
   ]
 }

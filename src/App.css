@@ -6,6 +6,27 @@
   height: 40vmin;
   pointer-events: none;
 }
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  margin-right: 0px;
+}
+.navbar-brand>img {
+  padding: 7px 14px;
+}
+.player-wrapper {
+  object-fit: contain;
+  min-height: 90vh;
+  margin: 15%;
+  align-items: center;
+  justify-content: center;
+}
+
+.react-player {
+  
+  width:50%;
+    height: auto;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

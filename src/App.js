@@ -5,12 +5,17 @@ import prasing from './PrasingGod.jpg';
 import way from "./Way.jpg";
 import testimony1 from "./Testimony.jpg";
 import birth1 from "./Birth1.jpg";
-
+import scroll from "./scrollb.jpg";
+import jou from "./jou.jpg";
+import sermon from "./sermon.jpg";
+import attri from "./Attrib1.jpg";
+import pro from "./Pro1.jpg";
 
 import {CardGroup, Card, Button,Navbar ,Nav,NavDropdown, Container  } from 'react-bootstrap';
 import ResizablePlayer from './components/ResizablePlayer';
 import React, { useState } from 'react';
 import './App.css';
+
 
 function App() {
   const [currentLanguage, setCurrentLanguage] = useState('اردو(Urdu)');
@@ -220,7 +225,7 @@ function App() {
   </Card.Body>
 </Card>
 <Card style={{ width: '18rem', margin: '2rem 2rem'  }}>
-  <Card.Img variant="top" src={prasing} />
+  <Card.Img variant="top" src={scroll} />
   <Card.Body>
     {/*<Card.Title>Card Title</Card.Title>
     <Card.Text>
@@ -233,7 +238,7 @@ function App() {
 </CardGroup>
 <CardGroup>  
 <Card style={{ width: '18rem', margin: '2rem 2rem'  }}>
-  <Card.Img variant="top" src={way} />
+  <Card.Img variant="top" src={jou} />
   <Card.Body>
     {/*<Card.Title>Card Title</Card.Title>
     <Card.Text>
@@ -244,7 +249,7 @@ function App() {
   </Card.Body>
 </Card>
 <Card style={{ width: '18rem', margin: '2rem 2rem'  }}>
-  <Card.Img variant="top" src={testimony1} />
+  <Card.Img variant="top" src={sermon} />
   <Card.Body>
     {/*<Card.Title>Card Title</Card.Title>
     <Card.Text>
@@ -258,7 +263,7 @@ function App() {
 
 <CardGroup>  
 <Card style={{ width: '18rem', margin: '2rem 2rem'  }}>
-  <Card.Img variant="top" src={way} />
+  <Card.Img variant="top" src={attri} />
   <Card.Body>
     {/*<Card.Title>Card Title</Card.Title>
     <Card.Text>
@@ -269,7 +274,7 @@ function App() {
   </Card.Body>
 </Card>
 <Card style={{ width: '18rem', margin: '2rem 2rem'  }}>
-  <Card.Img variant="top" src={testimony1} />
+  <Card.Img variant="top" src={pro} />
   <Card.Body>
     {/*<Card.Title>Card Title</Card.Title>
     <Card.Text>

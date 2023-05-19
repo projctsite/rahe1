@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rahe1/static/css/main.ededce42.css",
-    "main.js": "/rahe1/static/js/main.2ef47cb5.js",
+    "main.js": "/rahe1/static/js/main.c47e36b8.js",
     "static/js/787.7f7b8a1e.chunk.js": "/rahe1/static/js/787.7f7b8a1e.chunk.js",
-    "static/media/Bible.jpg": "/rahe1/static/media/Bible.838836a8b5dde5e495f9.jpg",
     "static/media/Way.jpg": "/rahe1/static/media/Way.9a054750a202bb90ba3a.jpg",
     "static/media/rahenajat.webp": "/rahe1/static/media/rahenajat.d00f746abf5a32fecb0a.webp",
     "static/media/jou.jpg": "/rahe1/static/media/jou.95d3d396a12ea4f71b46.jpg",
     "static/media/scrollb.jpg": "/rahe1/static/media/scrollb.58ffc44707d22bc945d6.jpg",
+    "static/media/Bible.jpg": "/rahe1/static/media/Bible.eba1b5ad9bc4bf1b7ae4.jpg",
     "static/media/Birth1.jpg": "/rahe1/static/media/Birth1.9140f6ce06d6cb5f3656.jpg",
     "static/media/sermon.jpg": "/rahe1/static/media/sermon.b5db971af3335033df29.jpg",
     "static/media/Pro1.jpg": "/rahe1/static/media/Pro1.927d26810b5db3f184de.jpg",
@@ -16,11 +16,11 @@
     "static/media/PrasingGod.jpg": "/rahe1/static/media/PrasingGod.ace22ab0815bae02b39d.jpg",
     "index.html": "/rahe1/index.html",
     "main.ededce42.css.map": "/rahe1/static/css/main.ededce42.css.map",
-    "main.2ef47cb5.js.map": "/rahe1/static/js/main.2ef47cb5.js.map",
+    "main.c47e36b8.js.map": "/rahe1/static/js/main.c47e36b8.js.map",
     "787.7f7b8a1e.chunk.js.map": "/rahe1/static/js/787.7f7b8a1e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ededce42.css",
-    "static/js/main.2ef47cb5.js"
+    "static/js/main.c47e36b8.js"
   ]
 }

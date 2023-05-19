@@ -109,7 +109,7 @@ function App() {
       </Navbar.Toggle>
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="#">HOME</Nav.Link>
+            <Nav.Link href="#home">HOME</Nav.Link>
             <Nav.Link href="https://rahenajat.projct.site/">{holybook[currentLanguage]}</Nav.Link>
             <Nav.Link href="#sermons">{sermons[currentLanguage]}</Nav.Link>
             <Nav.Link href="#contact">{contact[currentLanguage]}</Nav.Link>
@@ -133,7 +133,7 @@ function App() {
       </Container>
     </Navbar>
     
-      
+      <div id="home"><br/><br/></div>
     <ResizablePlayer  
         url='https://www.youtube.com/embed/5byLqmIo8Zw?autoplay=1&playlist=5byLqmIo8Zw&loop=1' 
         resizePercentage={0.7}

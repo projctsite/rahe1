@@ -1,6 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import logo from './rahenajat.webp';
 import bible from './Bible.jpg';
+import prasing from './PrasingGod.jpg';
 
 import {CardGroup, Card, Button,Navbar ,Nav,NavDropdown, Container  } from 'react-bootstrap';
 import ResizablePlayer from './components/ResizablePlayer';
@@ -103,7 +104,7 @@ function App() {
       </Card.Body>
     </Card>
     <Card style={{ width: '18rem', margin: '2rem 2rem'  }}>
-      <Card.Img variant="top" src={praisingGod} />
+      <Card.Img variant="top" src={prasing} />
       <Card.Body>
         {/*<Card.Title>Card Title</Card.Title>
         <Card.Text>

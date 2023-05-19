@@ -137,6 +137,7 @@ function App() {
           </Nav>
         </Navbar.Collapse>
       </Container>
+    
     </Navbar>
     
       <div id="home"><br/><br/></div>

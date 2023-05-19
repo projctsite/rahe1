@@ -4,6 +4,7 @@ import bible from './Bible.jpg';
 import prasing from './PrasingGod.jpg';
 import way from "./Way.jpg";
 import testimony1 from "./Testimony.jpg";
+import birth1 from "./Birth1.jpg";
 
 
 import {CardGroup, Card, Button,Navbar ,Nav,NavDropdown, Container  } from 'react-bootstrap';
@@ -208,7 +209,7 @@ function App() {
 
 <CardGroup>  
 <Card style={{ width: '18rem', margin: '2rem 2rem'  }}>
-  <Card.Img variant="top" src={bible} />
+  <Card.Img variant="top" src={birth1} />
   <Card.Body>
     {/*<Card.Title>Card Title</Card.Title>
     <Card.Text>

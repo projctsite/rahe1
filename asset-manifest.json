@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/rahe1/static/css/main.ededce42.css",
-    "main.js": "/rahe1/static/js/main.cea0bc48.js",
+    "main.js": "/rahe1/static/js/main.bdfc8f73.js",
     "static/js/787.7f7b8a1e.chunk.js": "/rahe1/static/js/787.7f7b8a1e.chunk.js",
     "static/media/Bible.jpg": "/rahe1/static/media/Bible.838836a8b5dde5e495f9.jpg",
     "static/media/Way.jpg": "/rahe1/static/media/Way.9a054750a202bb90ba3a.jpg",
     "static/media/rahenajat.webp": "/rahe1/static/media/rahenajat.d00f746abf5a32fecb0a.webp",
+    "static/media/Birth1.jpg": "/rahe1/static/media/Birth1.9140f6ce06d6cb5f3656.jpg",
     "static/media/Testimony.jpg": "/rahe1/static/media/Testimony.a1d1d8699a3276543b8d.jpg",
     "static/media/PrasingGod.jpg": "/rahe1/static/media/PrasingGod.ace22ab0815bae02b39d.jpg",
     "index.html": "/rahe1/index.html",
     "main.ededce42.css.map": "/rahe1/static/css/main.ededce42.css.map",
-    "main.cea0bc48.js.map": "/rahe1/static/js/main.cea0bc48.js.map",
+    "main.bdfc8f73.js.map": "/rahe1/static/js/main.bdfc8f73.js.map",
     "787.7f7b8a1e.chunk.js.map": "/rahe1/static/js/787.7f7b8a1e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ededce42.css",
-    "static/js/main.cea0bc48.js"
+    "static/js/main.bdfc8f73.js"
   ]
 }

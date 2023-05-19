@@ -110,7 +110,7 @@ function App() {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href="#">HOME</Nav.Link>
-            <Nav.Link href="#holybook">{holybook[currentLanguage]}</Nav.Link>
+            <Nav.Link href="https://rahenajat.projct.site/">{holybook[currentLanguage]}</Nav.Link>
             <Nav.Link href="#sermons">{sermons[currentLanguage]}</Nav.Link>
             <Nav.Link href="#contact">{contact[currentLanguage]}</Nav.Link>
 
@@ -155,7 +155,7 @@ function App() {
       Some quick example text to build on the card title and make up the
       bulk of the card's content.
     </Card.Text>*/}
-    <Button variant="success">{holybook[currentLanguage]}</Button>
+    <Button href='https://rahenajat.projct.site/' variant="success">{holybook[currentLanguage]}</Button>
   </Card.Body>
 </Card>
 <Card style={{ width: '18rem', margin: '2rem 2rem'  }}>
@@ -199,7 +199,8 @@ function App() {
 </Card>
 
 
-<br/><br/>
+
+<div id="sermons"><br/><br/><br/></div>
     <h2 style={{ textAlign: 'center', fontWeight: 'bold' }}>
       {sermons[currentLanguage]}
     </h2>

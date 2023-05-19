@@ -2,6 +2,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import logo from './rahenajat.webp';
 import bible from './Bible.jpg';
 import prasing from './PrasingGod.jpg';
+import way from "./Way.jpg";
+import testimony1 from "./Testimony.jpg";
+
 
 import {CardGroup, Card, Button,Navbar ,Nav,NavDropdown, Container  } from 'react-bootstrap';
 import ResizablePlayer from './components/ResizablePlayer';
@@ -38,6 +41,18 @@ function App() {
     "English" : "Praising God",
     "हिंदुस्तानी उर्दू(Hindustani Urdu)"   : "ख़ुदा की तारीफ़",
     "اردو(Urdu)"    : "خدا کی تعریف"
+  }
+
+  const salvation= {
+    "English" : "Way of salvation",
+    "हिंदुस्तानी उर्दू(Hindustani Urdu)"   : "राह-ए निजात",
+    "اردو(Urdu)"    : "راہِ نجات"
+  }
+
+  const testimony= {
+    "English" : "Events of those who attained salvation",
+    "हिंदुस्तानी उर्दू(Hindustani Urdu)"   : "राह निजात हासिल करने वालों के वाक़ियात।",
+    "اردو(Urdu)"    : "راہ نجات حاصل کرنے والوں کے واقعات۔"
   }
 
 
@@ -117,25 +132,25 @@ function App() {
     </CardGroup>
     <CardGroup>  
     <Card style={{ width: '18rem', margin: '2rem 2rem'  }}>
-      <Card.Img variant="top" src={bible} />
+      <Card.Img variant="top" src={way} />
       <Card.Body>
         {/*<Card.Title>Card Title</Card.Title>
         <Card.Text>
           Some quick example text to build on the card title and make up the
           bulk of the card's content.
         </Card.Text>*/}
-        <Button variant="success">{holybook[currentLanguage]}</Button>
+        <Button variant="success">{salvation[currentLanguage]}</Button>
       </Card.Body>
     </Card>
     <Card style={{ width: '18rem', margin: '2rem 2rem'  }}>
-      <Card.Img variant="top" src={bible} />
+      <Card.Img variant="top" src={testimony1} />
       <Card.Body>
         {/*<Card.Title>Card Title</Card.Title>
         <Card.Text>
           Some quick example text to build on the card title and make up the
           bulk of the card's content.
         </Card.Text>*/}
-        <Button variant="success">{holybook[currentLanguage]}</Button>
+        <Button variant="success">{testimony[currentLanguage]}</Button>
       </Card.Body>
     </Card>
     </CardGroup>

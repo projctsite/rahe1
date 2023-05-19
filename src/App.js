@@ -70,8 +70,8 @@ function App() {
   }
 
   const sacrifice= {
-    "English" : "Sacrifice from Torah, Psalms, Prophets and Gospel",
-    "हिंदुस्तानी उर्दू(Hindustani Urdu)"   : "तौरात, ज़बूर, सहाइफ़-ए अंबिया और इंजील से क़ुर्बानी",
+    "English" : "\"Sacrifice\" from Torah, Psalms, Prophets and Gospel",
+    "हिंदुस्तानी उर्दू(Hindustani Urdu)"   : "तौरात, ज़बूर, सहाइफ़-ए अंबिया और इंजील से \"क़ुर्बानी\"",
     "اردو(Urdu)"    : "توریت زبور صحائف انبیاء اور انجیلِ سے قربانی۔ "
   }
 

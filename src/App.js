@@ -101,7 +101,7 @@ function App() {
   };
   return (
    <>
-    <Navbar className='navbar-brand' collapseOnSelect expand="lg" bg="success" variant="dark" sticky="top">
+    <Navbar className='navbar-brand' collapseOnSelect expand="lg" bg="dark" variant="dark" sticky="top">
       <Container>
         <Navbar.Brand href="#home"><img src={logo}  weign="40" height="40" alt="logo" />RaheNajat.Life</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" >
